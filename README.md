@@ -15,7 +15,6 @@ This project focuses on generating text using the GPT-2 model, a powerful genera
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The GPT-2 model, developed by OpenAI, is known for its ability to generate human-like text based on a given prompt. This project showcases different techniques to enhance the quality and diversity of generated text.
